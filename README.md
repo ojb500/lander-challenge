@@ -3,6 +3,7 @@
 
 Your mission is to land a rocket back on Earth.
 You will write a program to control the throttle using just your instruments.![An artist's impression of your rocket in flight.](https://i.snag.gy/zCVnMt.jpg)
+
 *An artist's impression of your rocket in flight.*
 
 |Performance data|  |
