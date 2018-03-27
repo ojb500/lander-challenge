@@ -39,8 +39,11 @@ Every tick you'll receive an update (on stdout) with the current situation of th
 ````
 
 The ? prompt is asking you to enter a value on stdin.
+
 Typing a blank line will continue the simulation. Typing a number between 0 and 1 sets the throttle demand to that value (0 = off, 1 = full throttle).
+
 Lines that start with "#" are log messages. You'll receive your victory code this way (if you get one!)
+
 You can actually try this out without writing a program. Run the judge application and hit enter until your altitude is about 390 m. Then type ```1``` followed by return. After stepping the simulation a few more times you should see your thrust increasing and your vertical speed begin to decrease. Now you just need to turn it off at the right time :)
 ## Connecting your program to the judge
 There are 2 options:
